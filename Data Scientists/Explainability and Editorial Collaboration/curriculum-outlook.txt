@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Explainability and Editorial Collaboration**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Explainability and Editorial Collaboration within Data Scientists practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Explainability and Editorial Collaboration and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Explainability and Editorial Collaboration**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Explainability and Editorial Collaboration, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Explainability and Editorial Collaboration environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Explainability and Editorial Collaboration**
+
+**Summary:** Hands-on core techniques of Explainability and Editorial Collaboration applied to small realistic Data Scientists projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Explainability and Editorial Collaboration techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Explainability and Editorial Collaboration**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Explainability and Editorial Collaboration work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Explainability and Editorial Collaboration patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Explainability and Editorial Collaboration**
+
+**Summary:** How to verify Explainability and Editorial Collaboration work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Explainability and Editorial Collaboration work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Explainability and Editorial Collaboration**
+
+**Summary:** Using Explainability and Editorial Collaboration inside larger Data Scientists workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Explainability and Editorial Collaboration outputs into a larger Data Scientists workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Explainability and Editorial Collaboration**
+
+**Summary:** Advanced methods in Explainability and Editorial Collaboration for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Explainability and Editorial Collaboration methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Explainability and Editorial Collaboration**
+
+**Summary:** Making Explainability and Editorial Collaboration work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Explainability and Editorial Collaboration work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Explainability and Editorial Collaboration**
+
+**Summary:** Protecting Explainability and Editorial Collaboration work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Explainability and Editorial Collaboration work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Explainability and Editorial Collaboration**
+
+**Summary:** Making Explainability and Editorial Collaboration work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Explainability and Editorial Collaboration work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Explainability and Editorial Collaboration**
+
+**Summary:** Realistic Data Scientists case studies using Explainability and Editorial Collaboration under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Explainability and Editorial Collaboration results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Explainability and Editorial Collaboration**
+
+**Summary:** Expert-level judgment in Explainability and Editorial Collaboration, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Explainability and Editorial Collaboration work with portfolio-ready proof.

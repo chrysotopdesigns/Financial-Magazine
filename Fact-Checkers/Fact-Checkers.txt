@@ -1,0 +1,15 @@
+1. Fact-Checking Principles and Evidence Standards - Sets a consistent threshold for claims that are ready to publish.
+2. Source Hierarchies and Primary Documents - Prioritizes authoritative evidence and records source limitations.
+3. Corporate Filings and Regulatory Documents - Verifies business claims against original disclosures and records.
+4. Financial Calculations and Numerical Claims - Recomputes figures and checks definitions, units, and comparisons.
+5. Quotes, Interviews, and Attribution - Confirms quotations and gives context for attributed claims.
+6. Data Reproducibility and Calculation Logs - Makes verification steps auditable and repeatable by colleagues.
+7. Claim Logs, Citations, and Documentation - Creates a clear evidence trail for every material assertion.
+8. Web, Social Media, and Open-Source Verification - Authenticates online claims and identifies copied or misleading material.
+9. Images, Charts, and Visual Claims - Checks visual evidence, labels, dates, and implied conclusions.
+10. Fairness, Privacy, and Legal Escalation - Ensures subjects are treated fairly and sensitive risks are flagged.
+11. Author Queries and Dispute Resolution - Resolves disagreements through evidence rather than editorial pressure.
+12. Verification Workflows and Sign-Offs - Coordinates checks efficiently and clarifies responsibility for approval.
+13. Synthetic Media and AI-Generated Claims - Assesses provenance and corroboration when content may be machine-generated.
+14. Corrections and Post-Publication Checks - Supports rapid, transparent fixes when published facts change or fail.
+15. Newsroom Verification Training - Helps reporters prevent recurring errors before copy reaches review.

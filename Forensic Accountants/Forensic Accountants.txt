@@ -1,0 +1,15 @@
+1. Accounting Principles and Forensic Mindset - Builds a skeptical, evidence-led approach to financial records.
+2. Financial Statement Analysis and Reconciliation - Finds inconsistencies across statements, notes, and related disclosures.
+3. Fraud Schemes and Earnings Manipulation - Recognizes indicators of misstatement, concealment, and control failure.
+4. Revenue Recognition and Earnings Quality - Tests whether reported performance reflects underlying economics.
+5. Forensic Data Analytics and Anomaly Detection - Uses structured analysis to prioritize unusual transactions and patterns.
+6. Asset Tracing and Transaction Reconstruction - Follows the movement of funds and property through complex records.
+7. Corporate Structures and Beneficial Ownership - Maps entities and control relationships relevant to an investigation.
+8. Tax Structures and Financial Disclosures - Interprets tax arrangements and identifies questions for further review.
+9. Litigation Support and Evidence Management - Maintains clear, defensible workpapers for legal or editorial scrutiny.
+10. Investigative Interviews and Document Testing - Combines careful questioning with documentary corroboration.
+11. Business Valuation and Economic Damages - Explains assumptions behind estimates of value, loss, or impact.
+12. Regulatory Filings and Public-Record Research - Uses primary records to validate accounting and ownership findings.
+13. Expert Reports and Clear Financial Explanations - Makes technical conclusions understandable to non-specialist audiences.
+14. Professional Ethics and Legal Boundaries - Maintains independence, confidentiality, and appropriate scope of work.
+15. Case Planning, Peer Review, and Quality Control - Improves consistency and reliability across complex forensic assignments.

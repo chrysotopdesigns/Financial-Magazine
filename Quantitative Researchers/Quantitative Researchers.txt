@@ -1,0 +1,15 @@
+1. Probability, Statistics, and Quantitative Reasoning - Provides the mathematical foundation for sound financial research.
+2. Financial Economics and Asset Pricing - Connects risk, return, and market prices to economic theory.
+3. Market Microstructure and Trading Mechanics - Explains liquidity, order flow, spreads, and price formation.
+4. Time-Series and Cross-Sectional Methods - Chooses suitable tools for temporal and comparative market data.
+5. Research Questions and Hypothesis Design - Turns investment ideas into falsifiable research plans.
+6. Backtesting and Simulation Design - Tests strategies while controlling look-ahead and survivorship bias.
+7. Transaction Costs, Slippage, and Capacity - Measures whether apparent edges survive real execution frictions.
+8. Portfolio Construction and Optimization - Combines exposures under explicit objectives and practical constraints.
+9. Derivatives, Volatility, and Risk Measures - Analyzes nonlinear payoffs and tail risks with appropriate models.
+10. Financial Data Engineering and Alternative Data - Builds reliable inputs with careful attention to provenance and bias.
+11. Python, R, and C++ Research Workflows - Supports efficient research from prototype through performance testing.
+12. Robustness, Multiple Testing, and Overfitting - Separates durable findings from accidental patterns in large searches.
+13. Machine Learning in Quantitative Finance - Applies learning methods with disciplined validation and interpretation.
+14. Model Risk and Reproducible Research - Makes quantitative results auditable, stress-tested, and responsibly communicated.
+15. Research Communication and Peer Review - Explains methods, assumptions, and limits to technical and editorial audiences.

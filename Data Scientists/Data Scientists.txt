@@ -1,0 +1,15 @@
+1. Python and R for Financial Data Work - Builds practical fluency for analysis, automation, and repeatable research.
+2. Financial Data APIs and Acquisition - Collects market and company data with documented provenance and limits.
+3. SQL, Warehouses, and Data Modeling - Organizes financial datasets for reliable analysis and reuse.
+4. Statistics and Econometrics for Data Science - Supports defensible conclusions from complex and noisy data.
+5. Time-Series Analysis and Forecasting - Analyzes temporal patterns while respecting leakage and uncertainty.
+6. Machine Learning for Markets and Media - Applies predictive methods to relevant newsroom and financial questions.
+7. Valuation Models and Ranking Methodology - Builds transparent methods for lists, estimates, and comparative rankings.
+8. Data Quality, Lineage, and Documentation - Makes datasets traceable, consistent, and fit for analysis.
+9. Natural Language Processing for Finance - Extracts useful signals from filings, news, and company disclosures.
+10. Data Pipelines and Research Automation - Reduces repetitive work through monitored, maintainable data workflows.
+11. Experiments and Reproducible Analysis - Ensures results can be independently rerun and carefully interpreted.
+12. Dashboards and Decision-Support Analytics - Communicates findings in usable, well-defined metrics and displays.
+13. Privacy, Licensing, and Data Governance - Prevents misuse of personal, restricted, or improperly licensed data.
+14. Model Validation, Bias, and Drift - Tests models for reliability, fairness, and changing performance.
+15. Explainability and Editorial Collaboration - Makes technical results understandable to editors and readers.

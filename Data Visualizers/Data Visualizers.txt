@@ -1,0 +1,15 @@
+1. Data Storytelling and Visual Grammar - Matches evidence to forms readers can understand and interpret correctly.
+2. Chart Selection and Statistical Graphics - Chooses visual encodings suited to each data question.
+3. Financial Time-Series Visualization - Shows market movements with meaningful scales, context, and caveats.
+4. Market Maps and Network Diagrams - Reveals relationships among companies, sectors, and financial actors.
+5. Uncertainty, Risk, and Scenario Display - Communicates ranges and uncertainty without implying false precision.
+6. Data Cleaning and Visual Preparation - Prepares reliable inputs and records transformations before design.
+7. Visualization Tools and Graphic Production - Builds efficient workflows across code and design applications.
+8. Interactive Graphics and Dashboard Design - Lets readers explore complex information with clear controls and context.
+9. Color, Contrast, and Accessible Charts - Makes data graphics more legible for diverse readers and devices.
+10. Annotation and Editorial Context - Adds labels and explanations that connect patterns to the story.
+11. Data Integrity and Visual Fact-Checking - Verifies plotted values, units, sources, and visual implications.
+12. Print, Mobile, and Responsive Graphics - Adapts visual detail to the space and resolution available.
+13. Version Control and Cross-Team Collaboration - Keeps graphics coordinated, reviewable, and ready for revision.
+14. Ethical Visualization and Misleading Charts - Avoids distortions that could mislead readers about financial evidence.
+15. Production Delivery and Visualization Portfolio - Packages polished, reproducible work for publication and future reuse.

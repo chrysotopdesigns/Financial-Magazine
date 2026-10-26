@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Newsletters and Multi-Platform Distribution**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Newsletters and Multi-Platform Distribution within Columnists practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Newsletters and Multi-Platform Distribution and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Newsletters and Multi-Platform Distribution**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Newsletters and Multi-Platform Distribution, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Newsletters and Multi-Platform Distribution environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Newsletters and Multi-Platform Distribution**
+
+**Summary:** Hands-on core techniques of Newsletters and Multi-Platform Distribution applied to small realistic Columnists projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Newsletters and Multi-Platform Distribution techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Newsletters and Multi-Platform Distribution**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Newsletters and Multi-Platform Distribution work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Newsletters and Multi-Platform Distribution patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Newsletters and Multi-Platform Distribution**
+
+**Summary:** How to verify Newsletters and Multi-Platform Distribution work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Newsletters and Multi-Platform Distribution work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Newsletters and Multi-Platform Distribution**
+
+**Summary:** Using Newsletters and Multi-Platform Distribution inside larger Columnists workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Newsletters and Multi-Platform Distribution outputs into a larger Columnists workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Newsletters and Multi-Platform Distribution**
+
+**Summary:** Advanced methods in Newsletters and Multi-Platform Distribution for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Newsletters and Multi-Platform Distribution methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Newsletters and Multi-Platform Distribution**
+
+**Summary:** Making Newsletters and Multi-Platform Distribution work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Newsletters and Multi-Platform Distribution work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Newsletters and Multi-Platform Distribution**
+
+**Summary:** Protecting Newsletters and Multi-Platform Distribution work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Newsletters and Multi-Platform Distribution work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Newsletters and Multi-Platform Distribution**
+
+**Summary:** Making Newsletters and Multi-Platform Distribution work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Newsletters and Multi-Platform Distribution work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Newsletters and Multi-Platform Distribution**
+
+**Summary:** Realistic Columnists case studies using Newsletters and Multi-Platform Distribution under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Newsletters and Multi-Platform Distribution results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Newsletters and Multi-Platform Distribution**
+
+**Summary:** Expert-level judgment in Newsletters and Multi-Platform Distribution, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Newsletters and Multi-Platform Distribution work with portfolio-ready proof.

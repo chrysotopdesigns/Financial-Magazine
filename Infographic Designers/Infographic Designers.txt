@@ -1,0 +1,15 @@
+1. Information Architecture and Visual Narrative - Turns dense material into a clear sequence of reader-friendly insights.
+2. Financial Research for Infographic Design - Builds visual stories from validated business and market evidence.
+3. Concept Development and Visual Metaphor - Makes abstract financial systems intuitive without oversimplifying them.
+4. Layout, Typography, and Grid Design - Creates structured graphics that remain readable at publication size.
+5. Illustration, Icons, and Visual Systems - Builds coherent visual components that support the message.
+6. Charts and Data Integration - Combines quantitative graphics with explanatory illustrations accurately.
+7. Color, Contrast, and Inclusive Design - Improves comprehension and accessibility across audiences and formats.
+8. Print and Digital Infographic Production - Adapts artwork for page layouts, screens, and distribution channels.
+9. Maps and Geospatial Financial Graphics - Shows geographic patterns with appropriate scale and context.
+10. Sequencing, Labels, and Reader Navigation - Guides readers through complex information in a logical order.
+11. Vector Tools and Production File Preparation - Produces clean, editable assets that meet publication specifications.
+12. Source Checking and Data Verification - Ensures every number, label, and claim is traceable to evidence.
+13. Image Rights and Graphic Asset Licensing - Uses illustrations, maps, and source material within permitted rights.
+14. Review Cycles and Production Handoff - Coordinates feedback and delivers complete assets on deadline.
+15. Portfolio Development and Design Evaluation - Demonstrates editorial judgment and improves work through critique.

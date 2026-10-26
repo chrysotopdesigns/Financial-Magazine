@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Layout, Typography, and Grid Design**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Layout, Typography, and Grid Design within Infographic Designers practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Layout, Typography, and Grid Design and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Layout, Typography, and Grid Design**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Layout, Typography, and Grid Design, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Layout, Typography, and Grid Design environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Layout, Typography, and Grid Design**
+
+**Summary:** Hands-on core techniques of Layout, Typography, and Grid Design applied to small realistic Infographic Designers projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Layout, Typography, and Grid Design techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Layout, Typography, and Grid Design**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Layout, Typography, and Grid Design work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Layout, Typography, and Grid Design patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Layout, Typography, and Grid Design**
+
+**Summary:** How to verify Layout, Typography, and Grid Design work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Layout, Typography, and Grid Design work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Layout, Typography, and Grid Design**
+
+**Summary:** Using Layout, Typography, and Grid Design inside larger Infographic Designers workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Layout, Typography, and Grid Design outputs into a larger Infographic Designers workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Layout, Typography, and Grid Design**
+
+**Summary:** Advanced methods in Layout, Typography, and Grid Design for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Layout, Typography, and Grid Design methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Layout, Typography, and Grid Design**
+
+**Summary:** Making Layout, Typography, and Grid Design work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Layout, Typography, and Grid Design work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Layout, Typography, and Grid Design**
+
+**Summary:** Protecting Layout, Typography, and Grid Design work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Layout, Typography, and Grid Design work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Layout, Typography, and Grid Design**
+
+**Summary:** Making Layout, Typography, and Grid Design work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Layout, Typography, and Grid Design work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Layout, Typography, and Grid Design**
+
+**Summary:** Realistic Infographic Designers case studies using Layout, Typography, and Grid Design under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Layout, Typography, and Grid Design results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Layout, Typography, and Grid Design**
+
+**Summary:** Expert-level judgment in Layout, Typography, and Grid Design, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Layout, Typography, and Grid Design work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Columnist Voice and Point of View**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Columnist Voice and Point of View within Columnists practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Columnist Voice and Point of View and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Columnist Voice and Point of View**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Columnist Voice and Point of View, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Columnist Voice and Point of View environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Columnist Voice and Point of View**
+
+**Summary:** Hands-on core techniques of Columnist Voice and Point of View applied to small realistic Columnists projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Columnist Voice and Point of View techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Columnist Voice and Point of View**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Columnist Voice and Point of View work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Columnist Voice and Point of View patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Columnist Voice and Point of View**
+
+**Summary:** How to verify Columnist Voice and Point of View work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Columnist Voice and Point of View work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Columnist Voice and Point of View**
+
+**Summary:** Using Columnist Voice and Point of View inside larger Columnists workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Columnist Voice and Point of View outputs into a larger Columnists workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Columnist Voice and Point of View**
+
+**Summary:** Advanced methods in Columnist Voice and Point of View for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Columnist Voice and Point of View methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Columnist Voice and Point of View**
+
+**Summary:** Making Columnist Voice and Point of View work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Columnist Voice and Point of View work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Columnist Voice and Point of View**
+
+**Summary:** Protecting Columnist Voice and Point of View work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Columnist Voice and Point of View work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Columnist Voice and Point of View**
+
+**Summary:** Making Columnist Voice and Point of View work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Columnist Voice and Point of View work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Columnist Voice and Point of View**
+
+**Summary:** Realistic Columnists case studies using Columnist Voice and Point of View under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Columnist Voice and Point of View results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Columnist Voice and Point of View**
+
+**Summary:** Expert-level judgment in Columnist Voice and Point of View, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Columnist Voice and Point of View work with portfolio-ready proof.

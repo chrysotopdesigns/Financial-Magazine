@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Typography, Grids, and Layout Systems**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Typography, Grids, and Layout Systems within Creative/Art Director practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Typography, Grids, and Layout Systems and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Typography, Grids, and Layout Systems**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Typography, Grids, and Layout Systems, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Typography, Grids, and Layout Systems environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Typography, Grids, and Layout Systems**
+
+**Summary:** Hands-on core techniques of Typography, Grids, and Layout Systems applied to small realistic Creative/Art Director projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Typography, Grids, and Layout Systems techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Typography, Grids, and Layout Systems**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Typography, Grids, and Layout Systems work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Typography, Grids, and Layout Systems patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Typography, Grids, and Layout Systems**
+
+**Summary:** How to verify Typography, Grids, and Layout Systems work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Typography, Grids, and Layout Systems work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Typography, Grids, and Layout Systems**
+
+**Summary:** Using Typography, Grids, and Layout Systems inside larger Creative/Art Director workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Typography, Grids, and Layout Systems outputs into a larger Creative/Art Director workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Typography, Grids, and Layout Systems**
+
+**Summary:** Advanced methods in Typography, Grids, and Layout Systems for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Typography, Grids, and Layout Systems methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Typography, Grids, and Layout Systems**
+
+**Summary:** Making Typography, Grids, and Layout Systems work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Typography, Grids, and Layout Systems work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Typography, Grids, and Layout Systems**
+
+**Summary:** Protecting Typography, Grids, and Layout Systems work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Typography, Grids, and Layout Systems work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Typography, Grids, and Layout Systems**
+
+**Summary:** Making Typography, Grids, and Layout Systems work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Typography, Grids, and Layout Systems work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Typography, Grids, and Layout Systems**
+
+**Summary:** Realistic Creative/Art Director case studies using Typography, Grids, and Layout Systems under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Typography, Grids, and Layout Systems results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Typography, Grids, and Layout Systems**
+
+**Summary:** Expert-level judgment in Typography, Grids, and Layout Systems, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Typography, Grids, and Layout Systems work with portfolio-ready proof.

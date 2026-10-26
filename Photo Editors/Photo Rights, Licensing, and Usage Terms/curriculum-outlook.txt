@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Photo Rights, Licensing, and Usage Terms within Photo Editors practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Photo Rights, Licensing, and Usage Terms and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Photo Rights, Licensing, and Usage Terms, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Photo Rights, Licensing, and Usage Terms environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** Hands-on core techniques of Photo Rights, Licensing, and Usage Terms applied to small realistic Photo Editors projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Photo Rights, Licensing, and Usage Terms techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Photo Rights, Licensing, and Usage Terms work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Photo Rights, Licensing, and Usage Terms patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** How to verify Photo Rights, Licensing, and Usage Terms work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Photo Rights, Licensing, and Usage Terms work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** Using Photo Rights, Licensing, and Usage Terms inside larger Photo Editors workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Photo Rights, Licensing, and Usage Terms outputs into a larger Photo Editors workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** Advanced methods in Photo Rights, Licensing, and Usage Terms for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Photo Rights, Licensing, and Usage Terms methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** Making Photo Rights, Licensing, and Usage Terms work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Photo Rights, Licensing, and Usage Terms work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** Protecting Photo Rights, Licensing, and Usage Terms work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Photo Rights, Licensing, and Usage Terms work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** Making Photo Rights, Licensing, and Usage Terms work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Photo Rights, Licensing, and Usage Terms work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** Realistic Photo Editors case studies using Photo Rights, Licensing, and Usage Terms under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Photo Rights, Licensing, and Usage Terms results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Photo Rights, Licensing, and Usage Terms**
+
+**Summary:** Expert-level judgment in Photo Rights, Licensing, and Usage Terms, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Photo Rights, Licensing, and Usage Terms work with portfolio-ready proof.

@@ -1,0 +1,15 @@
+1. Market Structure and Financial Instruments - Explains how venues, participants, and instruments shape price behavior.
+2. Macroeconomic Indicators and Policy - Interprets growth, inflation, employment, and central-bank decisions.
+3. Equity Analysis and Company Valuation - Connects business fundamentals to transparent valuation assumptions.
+4. Fixed Income, Rates, and Credit - Assesses bond pricing, yield curves, and issuer credit conditions.
+5. Foreign Exchange and Commodity Markets - Explains global drivers, market conventions, and key exposures.
+6. Technical Analysis and Quantitative Indicators - Uses chart and market signals with explicit limits and validation.
+7. Earnings, Expectations, and Revisions - Compares reported results with consensus and forward-looking expectations.
+8. Statistics and Econometrics for Markets - Applies sound quantitative methods to noisy market observations.
+9. Scenarios, Forecasts, and Uncertainty - Builds conditional forecasts instead of overstating point predictions.
+10. Portfolio Context and Risk Framing - Places market views in a balanced risk and exposure context.
+11. Market Data Visualization and Dashboards - Communicates market movements through clear, verifiable displays.
+12. Analyst Notes and Market Commentary - Turns analysis into concise, evidence-led commentary for readers.
+13. Investor Sentiment and Positioning - Evaluates flows and sentiment without treating proxies as certainty.
+14. Market Data Quality and Source Evaluation - Reduces errors by checking definitions, timestamps, and provenance.
+15. Forecast Calibration and Post-Event Review - Improves judgment by comparing forecasts with outcomes systematically.

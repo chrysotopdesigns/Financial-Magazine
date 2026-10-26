@@ -1,0 +1,15 @@
+1. Copyediting Principles and Style Guides - Applies consistent editorial standards while preserving intended meaning.
+2. Copyediting Workflow and Manuscript Markup - Makes edits traceable, efficient, and easy for writers to resolve.
+3. Financial Terminology and Corporate Language - Catches subtle errors in specialized business and market wording.
+4. Numbers, Currencies, Dates, and Percentages - Improves numerical accuracy and consistency across a story.
+5. Grammar, Syntax, and Readability - Clarifies difficult prose without flattening the author voice.
+6. Fact Checks and Internal Consistency - Finds contradictions, unsupported details, and missing context.
+7. Headlines, Decks, Captions, and Teasers - Produces concise display text that matches the underlying reporting.
+8. Charts, Tables, and Data Labels - Checks visual text and supporting numbers for clarity and accuracy.
+9. Legal Sensitivity and Defamation Awareness - Flags potentially harmful wording for appropriate editorial review.
+10. Page Proofs and Print Production - Catches layout-stage errors before files go to press.
+11. Content Systems and Digital Publishing - Prepares clean copy for reliable publication in digital systems.
+12. Deadline Triage and Production Priorities - Protects quality while handling competing publication deadlines.
+13. AI-Assisted Editing and Human Oversight - Uses automated aids cautiously while keeping editorial accountability human.
+14. Corrections and Quality-Control Systems - Reduces repeat errors through clear checks and correction tracking.
+15. Writer Queries and Editorial Communication - Resolves questions tactfully and keeps changes understandable.

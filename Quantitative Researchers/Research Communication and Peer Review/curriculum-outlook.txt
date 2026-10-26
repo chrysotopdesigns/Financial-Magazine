@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Research Communication and Peer Review**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Research Communication and Peer Review within Quantitative Researchers practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Research Communication and Peer Review and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Research Communication and Peer Review**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Research Communication and Peer Review, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Research Communication and Peer Review environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Research Communication and Peer Review**
+
+**Summary:** Hands-on core techniques of Research Communication and Peer Review applied to small realistic Quantitative Researchers projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Research Communication and Peer Review techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Research Communication and Peer Review**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Research Communication and Peer Review work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Research Communication and Peer Review patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Research Communication and Peer Review**
+
+**Summary:** How to verify Research Communication and Peer Review work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Research Communication and Peer Review work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Research Communication and Peer Review**
+
+**Summary:** Using Research Communication and Peer Review inside larger Quantitative Researchers workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Research Communication and Peer Review outputs into a larger Quantitative Researchers workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Research Communication and Peer Review**
+
+**Summary:** Advanced methods in Research Communication and Peer Review for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Research Communication and Peer Review methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Research Communication and Peer Review**
+
+**Summary:** Making Research Communication and Peer Review work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Research Communication and Peer Review work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Research Communication and Peer Review**
+
+**Summary:** Protecting Research Communication and Peer Review work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Research Communication and Peer Review work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Research Communication and Peer Review**
+
+**Summary:** Making Research Communication and Peer Review work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Research Communication and Peer Review work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Research Communication and Peer Review**
+
+**Summary:** Realistic Quantitative Researchers case studies using Research Communication and Peer Review under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Research Communication and Peer Review results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Research Communication and Peer Review**
+
+**Summary:** Expert-level judgment in Research Communication and Peer Review, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Research Communication and Peer Review work with portfolio-ready proof.

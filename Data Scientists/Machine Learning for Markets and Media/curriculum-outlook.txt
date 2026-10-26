@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Machine Learning for Markets and Media**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Machine Learning for Markets and Media within Data Scientists practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Machine Learning for Markets and Media and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Machine Learning for Markets and Media**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Machine Learning for Markets and Media, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Machine Learning for Markets and Media environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Machine Learning for Markets and Media**
+
+**Summary:** Hands-on core techniques of Machine Learning for Markets and Media applied to small realistic Data Scientists projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Machine Learning for Markets and Media techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Machine Learning for Markets and Media**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Machine Learning for Markets and Media work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Machine Learning for Markets and Media patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Machine Learning for Markets and Media**
+
+**Summary:** How to verify Machine Learning for Markets and Media work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Machine Learning for Markets and Media work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Machine Learning for Markets and Media**
+
+**Summary:** Using Machine Learning for Markets and Media inside larger Data Scientists workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Machine Learning for Markets and Media outputs into a larger Data Scientists workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Machine Learning for Markets and Media**
+
+**Summary:** Advanced methods in Machine Learning for Markets and Media for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Machine Learning for Markets and Media methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Machine Learning for Markets and Media**
+
+**Summary:** Making Machine Learning for Markets and Media work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Machine Learning for Markets and Media work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Machine Learning for Markets and Media**
+
+**Summary:** Protecting Machine Learning for Markets and Media work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Machine Learning for Markets and Media work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Machine Learning for Markets and Media**
+
+**Summary:** Making Machine Learning for Markets and Media work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Machine Learning for Markets and Media work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Machine Learning for Markets and Media**
+
+**Summary:** Realistic Data Scientists case studies using Machine Learning for Markets and Media under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Machine Learning for Markets and Media results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Machine Learning for Markets and Media**
+
+**Summary:** Expert-level judgment in Machine Learning for Markets and Media, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Machine Learning for Markets and Media work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Case Planning, Peer Review, and Quality Control**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Case Planning, Peer Review, and Quality Control within Forensic Accountants practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Case Planning, Peer Review, and Quality Control and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Case Planning, Peer Review, and Quality Control**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Case Planning, Peer Review, and Quality Control, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Case Planning, Peer Review, and Quality Control environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Case Planning, Peer Review, and Quality Control**
+
+**Summary:** Hands-on core techniques of Case Planning, Peer Review, and Quality Control applied to small realistic Forensic Accountants projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Case Planning, Peer Review, and Quality Control techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Case Planning, Peer Review, and Quality Control**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Case Planning, Peer Review, and Quality Control work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Case Planning, Peer Review, and Quality Control patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Case Planning, Peer Review, and Quality Control**
+
+**Summary:** How to verify Case Planning, Peer Review, and Quality Control work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Case Planning, Peer Review, and Quality Control work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Case Planning, Peer Review, and Quality Control**
+
+**Summary:** Using Case Planning, Peer Review, and Quality Control inside larger Forensic Accountants workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Case Planning, Peer Review, and Quality Control outputs into a larger Forensic Accountants workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Case Planning, Peer Review, and Quality Control**
+
+**Summary:** Advanced methods in Case Planning, Peer Review, and Quality Control for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Case Planning, Peer Review, and Quality Control methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Case Planning, Peer Review, and Quality Control**
+
+**Summary:** Making Case Planning, Peer Review, and Quality Control work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Case Planning, Peer Review, and Quality Control work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Case Planning, Peer Review, and Quality Control**
+
+**Summary:** Protecting Case Planning, Peer Review, and Quality Control work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Case Planning, Peer Review, and Quality Control work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Case Planning, Peer Review, and Quality Control**
+
+**Summary:** Making Case Planning, Peer Review, and Quality Control work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Case Planning, Peer Review, and Quality Control work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Case Planning, Peer Review, and Quality Control**
+
+**Summary:** Realistic Forensic Accountants case studies using Case Planning, Peer Review, and Quality Control under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Case Planning, Peer Review, and Quality Control results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Case Planning, Peer Review, and Quality Control**
+
+**Summary:** Expert-level judgment in Case Planning, Peer Review, and Quality Control, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Case Planning, Peer Review, and Quality Control work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Financial Journalism Ethics and Law**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Financial Journalism Ethics and Law within Financial Journalists practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Financial Journalism Ethics and Law and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Financial Journalism Ethics and Law**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Financial Journalism Ethics and Law, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Financial Journalism Ethics and Law environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Financial Journalism Ethics and Law**
+
+**Summary:** Hands-on core techniques of Financial Journalism Ethics and Law applied to small realistic Financial Journalists projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Financial Journalism Ethics and Law techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Financial Journalism Ethics and Law**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Financial Journalism Ethics and Law work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Financial Journalism Ethics and Law patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Financial Journalism Ethics and Law**
+
+**Summary:** How to verify Financial Journalism Ethics and Law work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Financial Journalism Ethics and Law work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Financial Journalism Ethics and Law**
+
+**Summary:** Using Financial Journalism Ethics and Law inside larger Financial Journalists workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Financial Journalism Ethics and Law outputs into a larger Financial Journalists workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Financial Journalism Ethics and Law**
+
+**Summary:** Advanced methods in Financial Journalism Ethics and Law for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Financial Journalism Ethics and Law methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Financial Journalism Ethics and Law**
+
+**Summary:** Making Financial Journalism Ethics and Law work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Financial Journalism Ethics and Law work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Financial Journalism Ethics and Law**
+
+**Summary:** Protecting Financial Journalism Ethics and Law work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Financial Journalism Ethics and Law work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Financial Journalism Ethics and Law**
+
+**Summary:** Making Financial Journalism Ethics and Law work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Financial Journalism Ethics and Law work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Financial Journalism Ethics and Law**
+
+**Summary:** Realistic Financial Journalists case studies using Financial Journalism Ethics and Law under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Financial Journalism Ethics and Law results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Financial Journalism Ethics and Law**
+
+**Summary:** Expert-level judgment in Financial Journalism Ethics and Law, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Financial Journalism Ethics and Law work with portfolio-ready proof.

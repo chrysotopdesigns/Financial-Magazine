@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Time-Series and Cross-Sectional Methods**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Time-Series and Cross-Sectional Methods within Quantitative Researchers practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Time-Series and Cross-Sectional Methods and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Time-Series and Cross-Sectional Methods**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Time-Series and Cross-Sectional Methods, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Time-Series and Cross-Sectional Methods environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Time-Series and Cross-Sectional Methods**
+
+**Summary:** Hands-on core techniques of Time-Series and Cross-Sectional Methods applied to small realistic Quantitative Researchers projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Time-Series and Cross-Sectional Methods techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Time-Series and Cross-Sectional Methods**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Time-Series and Cross-Sectional Methods work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Time-Series and Cross-Sectional Methods patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Time-Series and Cross-Sectional Methods**
+
+**Summary:** How to verify Time-Series and Cross-Sectional Methods work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Time-Series and Cross-Sectional Methods work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Time-Series and Cross-Sectional Methods**
+
+**Summary:** Using Time-Series and Cross-Sectional Methods inside larger Quantitative Researchers workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Time-Series and Cross-Sectional Methods outputs into a larger Quantitative Researchers workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Time-Series and Cross-Sectional Methods**
+
+**Summary:** Advanced methods in Time-Series and Cross-Sectional Methods for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Time-Series and Cross-Sectional Methods methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Time-Series and Cross-Sectional Methods**
+
+**Summary:** Making Time-Series and Cross-Sectional Methods work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Time-Series and Cross-Sectional Methods work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Time-Series and Cross-Sectional Methods**
+
+**Summary:** Protecting Time-Series and Cross-Sectional Methods work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Time-Series and Cross-Sectional Methods work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Time-Series and Cross-Sectional Methods**
+
+**Summary:** Making Time-Series and Cross-Sectional Methods work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Time-Series and Cross-Sectional Methods work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Time-Series and Cross-Sectional Methods**
+
+**Summary:** Realistic Quantitative Researchers case studies using Time-Series and Cross-Sectional Methods under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Time-Series and Cross-Sectional Methods results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Time-Series and Cross-Sectional Methods**
+
+**Summary:** Expert-level judgment in Time-Series and Cross-Sectional Methods, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Time-Series and Cross-Sectional Methods work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Review Cycles and Production Handoff**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Review Cycles and Production Handoff within Infographic Designers practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Review Cycles and Production Handoff and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Review Cycles and Production Handoff**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Review Cycles and Production Handoff, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Review Cycles and Production Handoff environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Review Cycles and Production Handoff**
+
+**Summary:** Hands-on core techniques of Review Cycles and Production Handoff applied to small realistic Infographic Designers projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Review Cycles and Production Handoff techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Review Cycles and Production Handoff**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Review Cycles and Production Handoff work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Review Cycles and Production Handoff patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Review Cycles and Production Handoff**
+
+**Summary:** How to verify Review Cycles and Production Handoff work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Review Cycles and Production Handoff work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Review Cycles and Production Handoff**
+
+**Summary:** Using Review Cycles and Production Handoff inside larger Infographic Designers workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Review Cycles and Production Handoff outputs into a larger Infographic Designers workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Review Cycles and Production Handoff**
+
+**Summary:** Advanced methods in Review Cycles and Production Handoff for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Review Cycles and Production Handoff methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Review Cycles and Production Handoff**
+
+**Summary:** Making Review Cycles and Production Handoff work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Review Cycles and Production Handoff work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Review Cycles and Production Handoff**
+
+**Summary:** Protecting Review Cycles and Production Handoff work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Review Cycles and Production Handoff work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Review Cycles and Production Handoff**
+
+**Summary:** Making Review Cycles and Production Handoff work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Review Cycles and Production Handoff work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Review Cycles and Production Handoff**
+
+**Summary:** Realistic Infographic Designers case studies using Review Cycles and Production Handoff under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Review Cycles and Production Handoff results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Review Cycles and Production Handoff**
+
+**Summary:** Expert-level judgment in Review Cycles and Production Handoff, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Review Cycles and Production Handoff work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Model Risk and Reproducible Research**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Model Risk and Reproducible Research within Quantitative Researchers practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Model Risk and Reproducible Research and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Model Risk and Reproducible Research**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Model Risk and Reproducible Research, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Model Risk and Reproducible Research environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Model Risk and Reproducible Research**
+
+**Summary:** Hands-on core techniques of Model Risk and Reproducible Research applied to small realistic Quantitative Researchers projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Model Risk and Reproducible Research techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Model Risk and Reproducible Research**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Model Risk and Reproducible Research work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Model Risk and Reproducible Research patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Model Risk and Reproducible Research**
+
+**Summary:** How to verify Model Risk and Reproducible Research work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Model Risk and Reproducible Research work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Model Risk and Reproducible Research**
+
+**Summary:** Using Model Risk and Reproducible Research inside larger Quantitative Researchers workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Model Risk and Reproducible Research outputs into a larger Quantitative Researchers workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Model Risk and Reproducible Research**
+
+**Summary:** Advanced methods in Model Risk and Reproducible Research for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Model Risk and Reproducible Research methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Model Risk and Reproducible Research**
+
+**Summary:** Making Model Risk and Reproducible Research work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Model Risk and Reproducible Research work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Model Risk and Reproducible Research**
+
+**Summary:** Protecting Model Risk and Reproducible Research work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Model Risk and Reproducible Research work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Model Risk and Reproducible Research**
+
+**Summary:** Making Model Risk and Reproducible Research work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Model Risk and Reproducible Research work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Model Risk and Reproducible Research**
+
+**Summary:** Realistic Quantitative Researchers case studies using Model Risk and Reproducible Research under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Model Risk and Reproducible Research results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Model Risk and Reproducible Research**
+
+**Summary:** Expert-level judgment in Model Risk and Reproducible Research, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Model Risk and Reproducible Research work with portfolio-ready proof.

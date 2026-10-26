@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Market Data Quality and Source Evaluation**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Market Data Quality and Source Evaluation within Market Analysts practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Market Data Quality and Source Evaluation and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Market Data Quality and Source Evaluation**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Market Data Quality and Source Evaluation, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Market Data Quality and Source Evaluation environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Market Data Quality and Source Evaluation**
+
+**Summary:** Hands-on core techniques of Market Data Quality and Source Evaluation applied to small realistic Market Analysts projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Market Data Quality and Source Evaluation techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Market Data Quality and Source Evaluation**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Market Data Quality and Source Evaluation work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Market Data Quality and Source Evaluation patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Market Data Quality and Source Evaluation**
+
+**Summary:** How to verify Market Data Quality and Source Evaluation work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Market Data Quality and Source Evaluation work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Market Data Quality and Source Evaluation**
+
+**Summary:** Using Market Data Quality and Source Evaluation inside larger Market Analysts workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Market Data Quality and Source Evaluation outputs into a larger Market Analysts workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Market Data Quality and Source Evaluation**
+
+**Summary:** Advanced methods in Market Data Quality and Source Evaluation for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Market Data Quality and Source Evaluation methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Market Data Quality and Source Evaluation**
+
+**Summary:** Making Market Data Quality and Source Evaluation work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Market Data Quality and Source Evaluation work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Market Data Quality and Source Evaluation**
+
+**Summary:** Protecting Market Data Quality and Source Evaluation work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Market Data Quality and Source Evaluation work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Market Data Quality and Source Evaluation**
+
+**Summary:** Making Market Data Quality and Source Evaluation work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Market Data Quality and Source Evaluation work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Market Data Quality and Source Evaluation**
+
+**Summary:** Realistic Market Analysts case studies using Market Data Quality and Source Evaluation under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Market Data Quality and Source Evaluation results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Market Data Quality and Source Evaluation**
+
+**Summary:** Expert-level judgment in Market Data Quality and Source Evaluation, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Market Data Quality and Source Evaluation work with portfolio-ready proof.

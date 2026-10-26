@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Dashboards and Decision-Support Analytics**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Dashboards and Decision-Support Analytics within Data Scientists practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Dashboards and Decision-Support Analytics and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Dashboards and Decision-Support Analytics**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Dashboards and Decision-Support Analytics, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Dashboards and Decision-Support Analytics environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Dashboards and Decision-Support Analytics**
+
+**Summary:** Hands-on core techniques of Dashboards and Decision-Support Analytics applied to small realistic Data Scientists projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Dashboards and Decision-Support Analytics techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Dashboards and Decision-Support Analytics**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Dashboards and Decision-Support Analytics work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Dashboards and Decision-Support Analytics patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Dashboards and Decision-Support Analytics**
+
+**Summary:** How to verify Dashboards and Decision-Support Analytics work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Dashboards and Decision-Support Analytics work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Dashboards and Decision-Support Analytics**
+
+**Summary:** Using Dashboards and Decision-Support Analytics inside larger Data Scientists workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Dashboards and Decision-Support Analytics outputs into a larger Data Scientists workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Dashboards and Decision-Support Analytics**
+
+**Summary:** Advanced methods in Dashboards and Decision-Support Analytics for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Dashboards and Decision-Support Analytics methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Dashboards and Decision-Support Analytics**
+
+**Summary:** Making Dashboards and Decision-Support Analytics work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Dashboards and Decision-Support Analytics work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Dashboards and Decision-Support Analytics**
+
+**Summary:** Protecting Dashboards and Decision-Support Analytics work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Dashboards and Decision-Support Analytics work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Dashboards and Decision-Support Analytics**
+
+**Summary:** Making Dashboards and Decision-Support Analytics work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Dashboards and Decision-Support Analytics work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Dashboards and Decision-Support Analytics**
+
+**Summary:** Realistic Data Scientists case studies using Dashboards and Decision-Support Analytics under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Dashboards and Decision-Support Analytics results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Dashboards and Decision-Support Analytics**
+
+**Summary:** Expert-level judgment in Dashboards and Decision-Support Analytics, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Dashboards and Decision-Support Analytics work with portfolio-ready proof.

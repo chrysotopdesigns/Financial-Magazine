@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Expert Sources and On-Call Networks**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Expert Sources and On-Call Networks within Breaking News Journalists practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Expert Sources and On-Call Networks and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Expert Sources and On-Call Networks**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Expert Sources and On-Call Networks, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Expert Sources and On-Call Networks environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Expert Sources and On-Call Networks**
+
+**Summary:** Hands-on core techniques of Expert Sources and On-Call Networks applied to small realistic Breaking News Journalists projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Expert Sources and On-Call Networks techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Expert Sources and On-Call Networks**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Expert Sources and On-Call Networks work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Expert Sources and On-Call Networks patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Expert Sources and On-Call Networks**
+
+**Summary:** How to verify Expert Sources and On-Call Networks work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Expert Sources and On-Call Networks work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Expert Sources and On-Call Networks**
+
+**Summary:** Using Expert Sources and On-Call Networks inside larger Breaking News Journalists workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Expert Sources and On-Call Networks outputs into a larger Breaking News Journalists workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Expert Sources and On-Call Networks**
+
+**Summary:** Advanced methods in Expert Sources and On-Call Networks for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Expert Sources and On-Call Networks methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Expert Sources and On-Call Networks**
+
+**Summary:** Making Expert Sources and On-Call Networks work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Expert Sources and On-Call Networks work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Expert Sources and On-Call Networks**
+
+**Summary:** Protecting Expert Sources and On-Call Networks work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Expert Sources and On-Call Networks work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Expert Sources and On-Call Networks**
+
+**Summary:** Making Expert Sources and On-Call Networks work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Expert Sources and On-Call Networks work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Expert Sources and On-Call Networks**
+
+**Summary:** Realistic Breaking News Journalists case studies using Expert Sources and On-Call Networks under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Expert Sources and On-Call Networks results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Expert Sources and On-Call Networks**
+
+**Summary:** Expert-level judgment in Expert Sources and On-Call Networks, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Expert Sources and On-Call Networks work with portfolio-ready proof.

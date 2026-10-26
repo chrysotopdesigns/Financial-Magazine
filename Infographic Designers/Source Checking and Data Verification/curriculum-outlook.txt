@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Source Checking and Data Verification**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Source Checking and Data Verification within Infographic Designers practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Source Checking and Data Verification and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Source Checking and Data Verification**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Source Checking and Data Verification, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Source Checking and Data Verification environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Source Checking and Data Verification**
+
+**Summary:** Hands-on core techniques of Source Checking and Data Verification applied to small realistic Infographic Designers projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Source Checking and Data Verification techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Source Checking and Data Verification**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Source Checking and Data Verification work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Source Checking and Data Verification patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Source Checking and Data Verification**
+
+**Summary:** How to verify Source Checking and Data Verification work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Source Checking and Data Verification work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Source Checking and Data Verification**
+
+**Summary:** Using Source Checking and Data Verification inside larger Infographic Designers workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Source Checking and Data Verification outputs into a larger Infographic Designers workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Source Checking and Data Verification**
+
+**Summary:** Advanced methods in Source Checking and Data Verification for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Source Checking and Data Verification methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Source Checking and Data Verification**
+
+**Summary:** Making Source Checking and Data Verification work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Source Checking and Data Verification work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Source Checking and Data Verification**
+
+**Summary:** Protecting Source Checking and Data Verification work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Source Checking and Data Verification work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Source Checking and Data Verification**
+
+**Summary:** Making Source Checking and Data Verification work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Source Checking and Data Verification work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Source Checking and Data Verification**
+
+**Summary:** Realistic Infographic Designers case studies using Source Checking and Data Verification under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Source Checking and Data Verification results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Source Checking and Data Verification**
+
+**Summary:** Expert-level judgment in Source Checking and Data Verification, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Source Checking and Data Verification work with portfolio-ready proof.

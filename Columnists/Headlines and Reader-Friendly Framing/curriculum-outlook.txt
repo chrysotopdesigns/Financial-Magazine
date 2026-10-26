@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Headlines and Reader-Friendly Framing**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Headlines and Reader-Friendly Framing within Columnists practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Headlines and Reader-Friendly Framing and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Headlines and Reader-Friendly Framing**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Headlines and Reader-Friendly Framing, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Headlines and Reader-Friendly Framing environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Headlines and Reader-Friendly Framing**
+
+**Summary:** Hands-on core techniques of Headlines and Reader-Friendly Framing applied to small realistic Columnists projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Headlines and Reader-Friendly Framing techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Headlines and Reader-Friendly Framing**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Headlines and Reader-Friendly Framing work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Headlines and Reader-Friendly Framing patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Headlines and Reader-Friendly Framing**
+
+**Summary:** How to verify Headlines and Reader-Friendly Framing work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Headlines and Reader-Friendly Framing work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Headlines and Reader-Friendly Framing**
+
+**Summary:** Using Headlines and Reader-Friendly Framing inside larger Columnists workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Headlines and Reader-Friendly Framing outputs into a larger Columnists workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Headlines and Reader-Friendly Framing**
+
+**Summary:** Advanced methods in Headlines and Reader-Friendly Framing for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Headlines and Reader-Friendly Framing methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Headlines and Reader-Friendly Framing**
+
+**Summary:** Making Headlines and Reader-Friendly Framing work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Headlines and Reader-Friendly Framing work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Headlines and Reader-Friendly Framing**
+
+**Summary:** Protecting Headlines and Reader-Friendly Framing work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Headlines and Reader-Friendly Framing work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Headlines and Reader-Friendly Framing**
+
+**Summary:** Making Headlines and Reader-Friendly Framing work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Headlines and Reader-Friendly Framing work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Headlines and Reader-Friendly Framing**
+
+**Summary:** Realistic Columnists case studies using Headlines and Reader-Friendly Framing under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Headlines and Reader-Friendly Framing results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Headlines and Reader-Friendly Framing**
+
+**Summary:** Expert-level judgment in Headlines and Reader-Friendly Framing, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Headlines and Reader-Friendly Framing work with portfolio-ready proof.

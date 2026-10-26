@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Audience Analytics and Subscription Strategy**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Audience Analytics and Subscription Strategy within Editor-in-Chief practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Audience Analytics and Subscription Strategy and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Audience Analytics and Subscription Strategy**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Audience Analytics and Subscription Strategy, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Audience Analytics and Subscription Strategy environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Audience Analytics and Subscription Strategy**
+
+**Summary:** Hands-on core techniques of Audience Analytics and Subscription Strategy applied to small realistic Editor-in-Chief projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Audience Analytics and Subscription Strategy techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Audience Analytics and Subscription Strategy**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Audience Analytics and Subscription Strategy work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Audience Analytics and Subscription Strategy patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Audience Analytics and Subscription Strategy**
+
+**Summary:** How to verify Audience Analytics and Subscription Strategy work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Audience Analytics and Subscription Strategy work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Audience Analytics and Subscription Strategy**
+
+**Summary:** Using Audience Analytics and Subscription Strategy inside larger Editor-in-Chief workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Audience Analytics and Subscription Strategy outputs into a larger Editor-in-Chief workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Audience Analytics and Subscription Strategy**
+
+**Summary:** Advanced methods in Audience Analytics and Subscription Strategy for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Audience Analytics and Subscription Strategy methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Audience Analytics and Subscription Strategy**
+
+**Summary:** Making Audience Analytics and Subscription Strategy work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Audience Analytics and Subscription Strategy work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Audience Analytics and Subscription Strategy**
+
+**Summary:** Protecting Audience Analytics and Subscription Strategy work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Audience Analytics and Subscription Strategy work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Audience Analytics and Subscription Strategy**
+
+**Summary:** Making Audience Analytics and Subscription Strategy work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Audience Analytics and Subscription Strategy work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Audience Analytics and Subscription Strategy**
+
+**Summary:** Realistic Editor-in-Chief case studies using Audience Analytics and Subscription Strategy under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Audience Analytics and Subscription Strategy results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Audience Analytics and Subscription Strategy**
+
+**Summary:** Expert-level judgment in Audience Analytics and Subscription Strategy, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Audience Analytics and Subscription Strategy work with portfolio-ready proof.

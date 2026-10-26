@@ -1,0 +1,15 @@
+1. Trader Research and Financial User Needs - Grounds interface decisions in the tasks and constraints of financial users.
+2. Financial Data Interpretation for Designers - Helps designers preserve the meaning of market data and metrics.
+3. Information Architecture for Market Dashboards - Organizes dense information around user decisions and priorities.
+4. Dashboard UX and Decision Context - Supports fast, accurate interpretation without overwhelming the user.
+5. Visual Design, Typography, and Hierarchy - Makes critical values and status changes easy to scan.
+6. Interactions and Financial Data Visualization - Creates controls and charts that support exploration without confusion.
+7. Real-Time Updates, Alerts, and States - Communicates changing data, delays, and system status clearly.
+8. Responsive Layouts and Accessible Interfaces - Keeps core workflows usable across devices and abilities.
+9. Prototyping and Usability Testing - Tests interface assumptions with realistic tasks before release.
+10. Design Systems for Financial Products - Enables consistent, reusable components across product teams.
+11. Data Sources, Definitions, and Provenance - Makes data context visible and reduces interpretation errors.
+12. Privacy, Security, and Compliance-Aware UX - Respects sensitive information and avoids misleading advice-like interactions.
+13. Performance and High-Density Interface Design - Balances speed and information depth for demanding workflows.
+14. Developer Handoff and Interface Specifications - Reduces implementation ambiguity through precise documentation.
+15. Product Metrics and Continuous Iteration - Improves usability through measured outcomes and ongoing feedback.

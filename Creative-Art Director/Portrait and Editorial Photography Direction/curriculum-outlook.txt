@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Portrait and Editorial Photography Direction**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Portrait and Editorial Photography Direction within Creative/Art Director practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Portrait and Editorial Photography Direction and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Portrait and Editorial Photography Direction**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Portrait and Editorial Photography Direction, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Portrait and Editorial Photography Direction environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Portrait and Editorial Photography Direction**
+
+**Summary:** Hands-on core techniques of Portrait and Editorial Photography Direction applied to small realistic Creative/Art Director projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Portrait and Editorial Photography Direction techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Portrait and Editorial Photography Direction**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Portrait and Editorial Photography Direction work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Portrait and Editorial Photography Direction patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Portrait and Editorial Photography Direction**
+
+**Summary:** How to verify Portrait and Editorial Photography Direction work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Portrait and Editorial Photography Direction work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Portrait and Editorial Photography Direction**
+
+**Summary:** Using Portrait and Editorial Photography Direction inside larger Creative/Art Director workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Portrait and Editorial Photography Direction outputs into a larger Creative/Art Director workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Portrait and Editorial Photography Direction**
+
+**Summary:** Advanced methods in Portrait and Editorial Photography Direction for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Portrait and Editorial Photography Direction methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Portrait and Editorial Photography Direction**
+
+**Summary:** Making Portrait and Editorial Photography Direction work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Portrait and Editorial Photography Direction work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Portrait and Editorial Photography Direction**
+
+**Summary:** Protecting Portrait and Editorial Photography Direction work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Portrait and Editorial Photography Direction work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Portrait and Editorial Photography Direction**
+
+**Summary:** Making Portrait and Editorial Photography Direction work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Portrait and Editorial Photography Direction work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Portrait and Editorial Photography Direction**
+
+**Summary:** Realistic Creative/Art Director case studies using Portrait and Editorial Photography Direction under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Portrait and Editorial Photography Direction results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Portrait and Editorial Photography Direction**
+
+**Summary:** Expert-level judgment in Portrait and Editorial Photography Direction, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Portrait and Editorial Photography Direction work with portfolio-ready proof.

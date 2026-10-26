@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Financial Data APIs and Acquisition**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Financial Data APIs and Acquisition within Data Scientists practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Financial Data APIs and Acquisition and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Financial Data APIs and Acquisition**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Financial Data APIs and Acquisition, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Financial Data APIs and Acquisition environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Financial Data APIs and Acquisition**
+
+**Summary:** Hands-on core techniques of Financial Data APIs and Acquisition applied to small realistic Data Scientists projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Financial Data APIs and Acquisition techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Financial Data APIs and Acquisition**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Financial Data APIs and Acquisition work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Financial Data APIs and Acquisition patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Financial Data APIs and Acquisition**
+
+**Summary:** How to verify Financial Data APIs and Acquisition work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Financial Data APIs and Acquisition work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Financial Data APIs and Acquisition**
+
+**Summary:** Using Financial Data APIs and Acquisition inside larger Data Scientists workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Financial Data APIs and Acquisition outputs into a larger Data Scientists workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Financial Data APIs and Acquisition**
+
+**Summary:** Advanced methods in Financial Data APIs and Acquisition for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Financial Data APIs and Acquisition methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Financial Data APIs and Acquisition**
+
+**Summary:** Making Financial Data APIs and Acquisition work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Financial Data APIs and Acquisition work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Financial Data APIs and Acquisition**
+
+**Summary:** Protecting Financial Data APIs and Acquisition work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Financial Data APIs and Acquisition work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Financial Data APIs and Acquisition**
+
+**Summary:** Making Financial Data APIs and Acquisition work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Financial Data APIs and Acquisition work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Financial Data APIs and Acquisition**
+
+**Summary:** Realistic Data Scientists case studies using Financial Data APIs and Acquisition under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Financial Data APIs and Acquisition results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Financial Data APIs and Acquisition**
+
+**Summary:** Expert-level judgment in Financial Data APIs and Acquisition, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Financial Data APIs and Acquisition work with portfolio-ready proof.

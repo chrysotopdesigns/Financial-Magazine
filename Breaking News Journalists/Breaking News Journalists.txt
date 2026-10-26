@@ -1,0 +1,15 @@
+1. Speed, Accuracy, and Breaking-News Protocols - Balances rapid publication with verification and clear uncertainty labels.
+2. Market-Moving Events and Corporate News - Explains the immediate significance of major financial developments.
+3. Earnings Coverage Under Deadline - Reports results and guidance accurately as disclosures arrive.
+4. Central Banks and Economic Releases - Covers policy statements and data events with timely context.
+5. Live Blogs and Incremental Story Updates - Keeps fast-changing stories coherent, timestamped, and transparent.
+6. Rapid Source Verification and Confirmation - Prevents rumors and single-source claims from becoming false headlines.
+7. Deadline Writing and Fact Prioritization - Produces clear copy while distinguishing confirmed facts from unknowns.
+8. Headlines, Alerts, and Distribution - Sends useful, accurate updates across reader channels.
+9. Market Monitors and Newsroom Tools - Uses feeds and dashboards to spot events and track developments.
+10. Expert Sources and On-Call Networks - Builds reliable contacts for fast explanation and corroboration.
+11. Legal Standards and Editorial Escalation - Recognizes sensitive claims and routes them for appropriate review.
+12. Press Conferences and Event Coverage - Captures key announcements and verifies statements in real time.
+13. AI Tools for Monitoring and Verification - Uses automation to find leads while requiring human confirmation.
+14. Versioning, Corrections, and Story Updates - Maintains a transparent record as facts change after publication.
+15. Shift Handoffs and Sustainable Newsroom Practice - Preserves context across shifts and reduces deadline fatigue.
